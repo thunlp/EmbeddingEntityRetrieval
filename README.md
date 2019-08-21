@@ -15,7 +15,9 @@ We utilize ELR feature from this paper:
 
 - [Exploiting Entity Linking in Queries for Entity Retrieval. ICTIR 2016](http://hasibi.com/files/ictir2016-elr.pdf)
 
-
+## Run Your Models
+*	bash train_ca.sh
+*	bash train_svm.sh
 ## Results
 
 The entity retrieval results.
@@ -68,7 +70,7 @@ The entity retrieval results.
   </tr>
 
   <tr style="border-bottom: 4px solid black">
-  <td ><td ><b>Baseline(SVM)</b></td>
+  <td ><b>Baseline(SVM)</b></td>
 	<td >0.3895</td><td >0.3038</td><td >0.2169</td>
 	<td >0.2323</td><td >0.3078</td><td >0.2513</td>
 	<td >0.1350</td><td >0.2940</td><td >0.2345</td>
