@@ -28,11 +28,11 @@ The entity retrieval results.
   <thead>
   <tr>
     <th>Model</th>
-    <th colspan="2">SemSearch ES</th>
-    <th colspan="2">ListSearch</th>
-    <th colspan="2">INEX-LD</th>
-    <th colspan="2">QALD-2</th>
-    <th colspan="2">Total</th>
+    <th colspan="3">SemSearch ES</th>
+    <th colspan="3">ListSearch</th>
+    <th colspan="3">INEX-LD</th>
+    <th colspan="3">QALD-2</th>
+    <th colspan="3">Total</th>
   </tr>
   <tr >
     <td></td>
